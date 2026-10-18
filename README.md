@@ -9,6 +9,12 @@
 
 [![Laravel Flow 3D — versión cebolla](docs/01-cebolla-camino-feliz.png)](https://marusan94.github.io/laravel-flow-3d/)
 
+## 🎥 Demo animado
+
+![Demo animado: la historia Feliz reproducida en automático con cámara siguiendo la partícula](docs/demo-laravel-flow-3d.gif)
+
+▶ + velocidad ×2.5: la historia "Camino feliz" avanza sola y la cámara de cine sigue a la partícula por las capas. Capturado en vivo del demo con Playwright.
+
 > Mira cómo `GET /usuarios/1` se convierte en partículas 3D cruzando capas: el **maître** (Router), el **portero** (Middleware), el **chef** (Controller) y la **despensa** (Eloquent / Base de datos). Con quiz por estación, código PHP real y cámara libre.
 
 ## 🎪 Demo en vivo
